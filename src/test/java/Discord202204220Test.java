@@ -13,7 +13,7 @@ import static org.assertj.core.api.BDDAssertions.then;
  * Doubt about the following endpoints:
  * https://developers.amadeus.com/self-service/category/air/api-doc/airport-and-city-search/api-reference
  */
-public class Discord202204220 {
+public class Discord202204220Test {
 
     @Test
     public void given_test_environment_when_call_airport_locations_in_madrid_then_Ok() throws ResponseException {
